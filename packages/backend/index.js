@@ -1,0 +1,1 @@
+export default () => {console.log("i am from backend.")}

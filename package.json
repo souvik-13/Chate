@@ -1,0 +1,25 @@
+{
+  "name": "chate",
+  "private": false,
+  "workspaces": [
+    "packages/*"
+  ],
+  "type": "module",
+  "description": "Real time chat",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/souvik-13/Chate.git"
+  },
+  "author": "Souvik Karmakar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/souvik-13/Chate/issues"
+  },
+  "homepage": "https://github.com/souvik-13/Chate#readme"
+}
